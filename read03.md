@@ -10,9 +10,6 @@ together related elements on the page
 parts of a page
 some of new elements:
 
-- Headers & Footers
-<header> <footer>
-
 - Navigation
 <nav>
 
