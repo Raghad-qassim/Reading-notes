@@ -16,15 +16,21 @@ to complete that task (a flowchart can help).
 
 step to do when you want to design web page using java script:
 1: DEFINE THE GOAL
+
 2: DESIGN THE SCRIPT
+
 3: CODE EACH STEP
 
 **operator:
+
 1)ASSIGNMENT OPERATORS
 color = 'beige'; 
+
 2)COMPARISON OPERATORS
 buy = 3 > 5; 
+
 3)LOGICAL OPERATORS
 buy= (5 > 3) && (2 < 4);
+
 4)STRING OPERATORS
 greeting= 'Hi 1 + 'Mol ly'; 
