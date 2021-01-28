@@ -6,7 +6,7 @@ a page.
 For a long time, web page authors used <div> elements to group
 together related elements on the page
 
-# HTML5 introduces a new set of elements that allow you to divide up the
+ HTML5 introduces a new set of elements that allow you to divide up the
 parts of a page
 some of new elements:
 

@@ -15,6 +15,7 @@ a series of tasks and then work out each step needed
 to complete that task (a flowchart can help). 
 
 step to do when you want to design web page using java script:
+
 1: DEFINE THE GOAL
 
 2: DESIGN THE SCRIPT

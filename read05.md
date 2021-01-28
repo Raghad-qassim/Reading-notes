@@ -21,11 +21,12 @@ logical operator:
 
 1) && (logical AND)
 
-2) || (logicl OR)
+2) ||(logicl OR)
 
 3) !  (logical NOT)
 
 LOOPS
+
 check condition  if it is true the code run and repeats until condition is false
 
 example:
