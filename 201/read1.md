@@ -237,11 +237,11 @@ Comparison operator evaluating conditions:
 
 < (greater than)
 
-> (less than)
+(less than)
 
 <= (greater than or equal)
 
->= (less than or equal)
+ (less than or equal)
 
 Logical operator:
 
