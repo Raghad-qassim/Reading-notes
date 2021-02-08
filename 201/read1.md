@@ -168,6 +168,96 @@ There are many different types of CSS selector that allow you to target rules to
 
 3-the one CSS style sheet, rather than changing the CSS rules on every page.
 
+# Chapter(2) “Basic JavaScript Instructions”
+
+**A script is a series of instructions that a computer can follow one-by-one. Each individual instruction or step is known as a statement**
+
+comments use to explain what your code does
+comments can be :
+
+1-multi-line
+
+2-single-line
+
+**Variables : store the bits of information  in it**
+
+Data type:
+
+1-Numeric
+
+2-String
+
+3-Boolean
+
+
+Rule for variable naming:
+
+1-The name must begin with a letter, dollar sign ($),or an underscore (_). It must not start with a number.
+
+2-The name can contain letters, numbers, dollar sign ($), or an underscore (_)
+
+3-You cannot use keywords or reserved words.
+
+4-All variables are case sensitive
+
+5-Use a name that describes the kind of information that the variable stores.
+
+6-If your variable name is made up of more than one word, use a capital letter for the first letter of every word after the first word.
+
+**Arrays An array is a special type of variable. It doesn't just store one value; it stores a list of values.**
+
+**Expression: evaluates into (results in) a single value. Broadly speaking there are two types of expressions.**
+
+**Operator: Expressions rely on things, they allow programmers to create a single value from one or more values.**
+
+ Operator type:
+
+1-Assignment Operator
+
+2-Comparison Operator
+
+
+3-Arithmetic Operator
+
+4-Logical Operator
+
+5-String Operator
+
+# Chapter (10) “Decisions and Loops”
+
+Comparison operator evaluating conditions:
+
+==(is equal to)
+
+!= (is  not equal to)
+
+===(strict equal to)
+
+!== (strict not equal to)
+
+< (greater than)
+
+> (less than)
+
+<= (greater than or equal)
+
+>= (less than or equal)
+
+Logical operator:
+
+&& (logical and)
+
+|| (logical or)
+
+
+! (logical not)
+
+
+
+
+
+
+
 
 
 
