@@ -247,7 +247,8 @@ Logical operator:
 
 && (logical and)
 
-|| (logical or)
+
+(logical or)
 
 
 ! (logical not)
