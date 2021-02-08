@@ -12,9 +12,11 @@ provides extra information
 Tags(Structural markup)
 
 1-Headings:
+
 From <h 1> to <h 6>  
 
 2- Paragraph
+
 <p>
 
 3-Bold & Italic
