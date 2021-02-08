@@ -13,31 +13,18 @@ Tags(Structural markup)
 
 1-Headings:
 
-From <h 1> to <h 6>  
-
 2- Paragraph
 
-<p>
 
 3-Bold & Italic
-
-
-<b> bold
-
-
-<i<> italic
-
 
 4- Superscript & Subscript
 
 
- <sub> used to contain characters that should be superscript such as the suffixes of dates ormathematical concepts like 
-
-
+ sub: used to contain characters that should be superscript such as the suffixes of dates ormathematical concepts like 
  raising a number to a power
 
-
-    <sup>used to contain characters that should be subscript.
+ sup:used to contain characters that should be subscript.
 
 5- White Space
 
@@ -48,9 +35,9 @@ In order to make code easier to read.
 
 6-Line Breaks & Horizontal Rules
 
-<br/> the browser will automatically show each new paragraph or heading on a new line
+br: the browser will automatically show each new paragraph or heading on a new line
 
-<hr/>To create a break between themes
+hr :To create a break between themes
 
 **Visual Editors & Their Code views**
 
@@ -68,44 +55,44 @@ show you the code created by the visual editor so you can manually edit it, or s
 
 1-Strong & Emphasis
 
-<strong> use it to indicates that  content has strong importance
+strong: use it to indicates that  content has strong importance
 
-<em> indicates emphasis that subtly changes the meaning of a sentence.
+em: indicates emphasis that subtly changes the meaning of a sentence.
        
 2-Quotations
 
 There are two elements commonly used for marking up quotations:
 
-<blockquote>
+blockquote
 
-<q>
+q
 
 3-Abbreviations & Acronyms
 
 
-<abbr> use when you need to use abbreviation or an acronym
+abbr: use when you need to use abbreviation or an acronym
 
 
 4- Citations & Definitions
 
-<cite > When you are referencing a piece of work such as a book
+cite : When you are referencing a piece of work such as a book
 
 
-<dfn> The first time you explain some new terminology
+dfn: The first time you explain some new terminology
 
 
 5-Author Details
 
-<address>
+address
 
 It can contain a physical address, but it does not have to. For example, it may also contain a phone number or email address.
 
 
 7-Changes to content
 
-<ins> element can be used to show content that has been inserted into a document
+ins: element can be used to show content that has been inserted into a document
 
-<del> element can show text that has been deleted from it.
+del: element can show text that has been deleted from it.
 
 # Chapter (10) Introducing CSS
 
@@ -131,7 +118,7 @@ CSS declarations sit inside curly brackets and each is made up of two parts: a p
 
 *Using External CSS*
 
-<link>
+link
 can be used in an HTML document to tell the browser where to find the CSS file used to style the page and it lives inside the element
 
 It should use three attributes:
@@ -151,7 +138,7 @@ This specifies the relationship between the HTML page and the file it is linked 
 
 **Using Internal css**
 
- <style>
+using style tag
 
 **CSS Selectors*
 
