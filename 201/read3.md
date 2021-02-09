@@ -172,8 +172,10 @@ Each array has a property called**length**, which holds the number of items in t
 
  **If…… else loop:**
 
-      If it resolve to true the first code run.
+     If it resolve to true the first code run.
+
      If the condition resolve to false the second code run.
+
 **switch**
 
 A switch statement starts with a variable called the switch value.
