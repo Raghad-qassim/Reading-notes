@@ -12,16 +12,11 @@
 
 *Definition lists types:*
 
-1-dl
+1-dd: consists of a series of terms and their definitions.
 
-    consists of a series of terms and their definitions.
+2-dt: This is used to contain the term being defined (the definition term)
 
-2-dt
-
-      This is used to contain the term being defined (the definition term)
-3-dd
-
-This is used to contain the definition.
+3-dd:This is used to contain the definition.
 
 **Nested Lists :**
 Lists can be nested inside one another.
@@ -157,4 +152,57 @@ Vertical offset
 Blur distance
 
 Spread of shadow
+
+# JS book:
+
+# Chapter 2: Basic JavaScript Instructions
+
+Arrays: An array is a special type of variable. It doesn't just store one value; it stores a list of values.
+
+**When we use array :**
+
+Arrays are especially helpful when you do not know how many items a list will contain
+
+Each item in an array is automatically given a number called an**index**
+
+Each array has a property called**length**, which holds the number of items in the array
+
+
+# Chapter 4: “Decisions and Loops”
+
+ **If…… else loop:**
+
+      If it resolve to true the first code run.
+     If the condition resolve to false the second code run.
+**switch**
+
+A switch statement starts with a variable called the switch value.
+code that should run if the variable matches that value.
+
+**data type in javascript**
+1-string
+
+2-boolean
+
+3-number
+
+**Loops**
+
+Check the condition, if it return true a code will run then the condition will checked again
+And if it still true the code will run again.
+Repeat the code until the condition return false.
+
+
+
+**difference between a while loop and a do while loop**
+
+The key difference between a while loop and a do while loop is that the statements in the code block come before the condition. 
+This means that those statements are run once whether or not the condition is met
+
+
+
+
+
+
+
 
