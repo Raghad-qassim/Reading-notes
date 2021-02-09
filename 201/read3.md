@@ -11,11 +11,16 @@
 3-Definition lists are made up of a set of terms along with the definitions for each of those terms.
 
 *Definition lists types:*
+
 1-dl
+
     consists of a series of terms and their definitions.
+
 2-dt
+
       This is used to contain the term being defined (the definition term)
 3-dd
+
 This is used to contain the definition.
 
 **Nested Lists :**
@@ -40,7 +45,7 @@ property to make sure that they do not appear too narrow.
 
 property indicates the maximum width a box can stretch to when the browser window is wide.
 
-**\ overflowing content**
+**overflowing content**
 
 1-	Hidden
 
@@ -86,29 +91,36 @@ border-top- color
 border-right-color
 
  border-bottom-color 
- 
+
 border-left-color
 
+2-Margin
 
-
-
-
-
-2-	Margin
  Margins sit outside the edge of the border
+
 Margin type:
-          margin-top 
+
+margin-top 
+
 margin-right 
+
 margin-bottom
- margin-left
+
+margin-left
 
 
-2-	Padding 
+2-Padding 
+
 Padding: is the space between the border of a box and any content contained within it.
+
 Padding type:
+
 padding-top
- padding-right 
+
+padding-right 
+
 padding-bottom 
+
 padding-left
 
 **White space & Vertical Margin:**
@@ -124,17 +136,25 @@ none
 
 **visibility**
 The values this property can take are:
+
 Hidden
+
 Visible
 
 
-** border-image**
+**border-image**
+
  property applies an image to the border of any box. It takes a background image and slices it into nine pieces.
 
-** box-shadow**
+**box-shadow**
+
 Can be :
+
 Horizontal offset
+
 Vertical offset
+
 Blur distance
+
 Spread of shadow
 
