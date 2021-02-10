@@ -60,11 +60,11 @@ If one block-level element sits inside another block-level element then the oute
 
  allows you to take that element out of normal flow and position it to the far left or right of a containing box
 
-   **normal Flow**
+**normal Flow**
 
    In normal flow, each block-level element sits on top of the next one
 
-  **Positioning**
+**Positioning**
 
 1- Relative
 
@@ -181,21 +181,3 @@ Writing: producing from scratch a meaningful
 5.Job interview readiness
 
 6.Work environment readiness
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-       
-
-
-
