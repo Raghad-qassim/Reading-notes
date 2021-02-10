@@ -1,4 +1,4 @@
-# chapter 4: “links”
+# chapter 4: 
 
 **Links are the defining feature of the web because they allow you to move from one web page to another enabling the very idea of browsing or surfing.**
 
@@ -24,7 +24,7 @@ Relative Link Type:
 *target*
 If you want a link to open in a new window.
 
-# Chapter(15):”layout”
+# Chapter(15):
 
 *Building Blocks*
 
