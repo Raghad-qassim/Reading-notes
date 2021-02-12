@@ -9,4 +9,4 @@
 
 **You can access the properties or the methods of an object using the dot notation** 
 
-![image](Desktop\raghad\method)
+![image](‪C:\Users\Lenovo\Desktop\raghad\method.jpg)
