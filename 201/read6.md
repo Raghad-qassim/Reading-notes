@@ -9,4 +9,4 @@
 
 **You can access the properties or the methods of an object using the dot notation** 
 
-![image](img/method.jpg)
+![image](201/img/method.jpg)
