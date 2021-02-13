@@ -10,8 +10,9 @@
 **You can access the properties or the methods of an object using the dot notation** 
 
 ![image](https://cdn-images-1.medium.com/max/1024/1*GA7toY-Y3a3l0nlewOxIAw.png)
- 
- # Chapter(5)
+
+# Chapter(5)
+
 
 **The Document Object Model (DOM)**
 
@@ -74,7 +75,7 @@ nextSibling
 
 allows you to collect or update just the text that is in the containing element (and its children)
 
-**i nnerHTML property**
+**innerHTML property**
 
 you can access and amend the contents of an element, including any child elements using it
 
