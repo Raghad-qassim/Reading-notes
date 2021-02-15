@@ -85,36 +85,3 @@ Composition in any visual art (such as design, painting, or photography) is the 
 
 aim to make your life easier by providing the code for common tasks, such as creating layout grids, styling forms, creating printer-friendly versions of pages and so on
 
-# JS book:
-
-**Chapter 3 (first part): “Functions, Methods, and Objects”**
-
-**function**
-
-series of statements together to perform a specific task.
-
-**function declaration**
-
- creates a function that you can call later in your code. 
-
-**function expression.**
-
-    If you put a function where the interpreter would expect to see an expression, then it is treated as an     expression.
-
-**Immediately invoked function expressions**
-
-Pronounced "iffy," these functions are not given a name. Instead, they are executed once as the interpreter comes across them.
-
-**variable  scope**
-
-The location where you declare a variable will affect where it can be used within your code.
-
-1-local variable
-
-When a variable is created inside a function using the var keyword.
-
-2-global variable
-
-you create a variable outside of a function, then it can be used anywhere within the script.
-**Global variables use more memory. The browser has to remember them for as long as the web page using them is loaded. Local variables are only remembered during the period of time that a function is being executed.**
-
