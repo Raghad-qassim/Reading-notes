@@ -1,4 +1,4 @@
-#Chapter(16) images
+# Chapter(16) images
 
 **controlling sizes of images**
 
@@ -99,24 +99,31 @@ six steps that will help you identify the right keywords and phrases for your si
 **How Many People Are Coming to Your Site?**
 
 1)Visits:
+
 number of times people have come to your site
 
 2)Unique Visits:
+
 total number of people who have visited your site over the specified period.
 
 3)Page Views:
+
 total number of pages all visitors have viewed on your site
 
 4)Pages per Visit:
+
 average number of pages each visitor has looked at on your site per visit.
 
 5)Average Time on Site :
+
 The average amount of time each user has spent on the site per 
 
 6)Date Selector:
+
  Using the date selector in the top right hand corner of the site
 
 7)Export:
+
 allows you to export the statistics on this page for other applications such as Excel
 
 **What Are Your Visitors Looking At?**
