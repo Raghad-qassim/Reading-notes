@@ -50,16 +50,16 @@ Steps to draw a pie chart:
 
 # canvas API
 
-The <canvas> element has only two attributes, width and height.
+The (<canvas>) element has only two attributes, width and height.
 
-The id attribute isn't specific to the <canvas> element but is one of the global HTML attributes which can be applied to any HTML element.
+The id attribute isn't specific to the (<canvas>) element but is one of the global HTML attributes which can be applied to any HTML element.
 
-The <canvas> element requires the closing tag (</canvas>)
+The (<canvas>) element requires the closing tag (</canvas>)
 
 
-The <canvas> element creates a fixed-size drawing surface that exposes one or more rendering contexts.
+The (<canvas>) element creates a fixed-size drawing surface that exposes one or more rendering contexts.
 
-<canvas> only supports two primitive shapes: rectangles and paths (lists of points connected by lines).
+(<canvas>) only supports two primitive shapes: rectangles and paths (lists of points connected by lines).
 
 **There are three functions that draw rectangles on the canvas:**
 
@@ -196,9 +196,5 @@ Text alignment setting
 Baseline alignment setting.
 
 3)direction = value
+
 Directionality
-
-
-
-
-
