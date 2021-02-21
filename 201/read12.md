@@ -3,7 +3,15 @@
 charts better for displaying data visually than tables.
 They are easier to look at and convey data quickly.
 
-Type of chart:
+**Installation**
+
+You can download the latest version of Chart.js from the GitHub releases or use a Chart.js CDN.
+
+**Craeting a chart**
+
+All  required is the script included in your page along with a single <canvas> node to render the chart.
+
+**Type of chart:**
 
 1)line chart
 
