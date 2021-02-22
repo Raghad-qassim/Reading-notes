@@ -55,3 +55,55 @@ The( width) attribute was used on the opening (table)tag to indicate how wide th
 The( border) attribute was used on both the (table)and (td)elements to indicate the width of the border in pixels. 
 
 The (bgcolor) attribute was used to indicate background colors
+
+
+# Chapter 3: “Functions, Methods, and Objects” 
+
+**Object constructors can use a function as a template for creating objects.**
+
+**When you created an object (using literal or constructor notation), you can add new properties to it. You do this using the dot notation**
+
+**The keyword( this) inside functions and objects., It always refers to one object, usually the object in which the function operates.**
+
+**function is created at the top level of a, then it is in the global scope or global context**
+
+**When a function is defined inside an object, it becomes a( method.)**
+
+**a variable has just one key (the variable name) and one value.**
+
+**Arrays can store multiple pieces of information.**
+
+   Array can be a special type of object.
+
+**object can be:**
+
+1)Individual objects
+
+Objects store sets of name/value pairs.
+
+2)Multiple objects
+
+Used when you need to create multiple objects within the same page.
+
+**Built-in object**
+
+These built-in objects act like a toolkit for creating interactive web pages
+
+**Type of Built-in object**:
+
+1)Browser object model
+
+2) Document object model
+
+3) Global javascript object
+
+**JavaScript has five simple (or primitive) data types:**
+1.String
+
+2.Number
+
+ 3.Boolean
+
+ 4.Undefined 
+
+5.Null
