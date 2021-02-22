@@ -1,6 +1,8 @@
 # chapter(6): Table
 **A table represents information in a grid format**
 
+![table](https://i.ytimg.com/vi/KnKMGCSPj3Y/maxresdefault.jpg)
+
 **Basic Table Structure**
 
 1)Table
