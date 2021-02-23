@@ -13,9 +13,10 @@ Cookies have three potential downsides:
 **we can refer to  “HTML5 Storage” in a specification named Web Storage**
  **Certain browser vendors also refer to it as “Local Storage” or “DOM Storage**
 
- HTML5:it’s a way for web pages to store named key/value pairs locally, within the client web browser. 
- 
+ HTML5:it’s a way for web pages to store named key/value pairs locally, within the client web browser.
+
  **storage event.**
+
  1)setItem
 
  2)removeItem
