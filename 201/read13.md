@@ -16,11 +16,11 @@ Cookies have three potential downsides:
  HTML5:it’s a way for web pages to store named key/value pairs locally, within the client web browser. 
  
  **storage event.**
- 1)setItem()
+ 1)setItem
 
- 2)removeItem()
+ 2)removeItem
 
- 3)clear()
+ 3)clear
 
 ![Table](https://image.slidesharecdn.com/html5localstorage-140511235722-phpapp01/95/html5-local-storage-12-638.jpg?cb=1399852926)
 
